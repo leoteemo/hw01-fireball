@@ -1,5 +1,7 @@
 # [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
+Name: Kehan Wang 
 
+Link: https://leoteemo.github.io/hw01-fireball/
 
 ## Noise Generation
 
