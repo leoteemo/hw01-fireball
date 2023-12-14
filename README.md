@@ -8,11 +8,13 @@ Toolbox functions used: bias, smoothstep, ease in out, sawtooth wave.
 ## Interactivity
 Main color and flame color. 
 Color Noise Scale. Smooth step left and right edges to control shape. Displacement frequency to speed up a growing cycle. Reset to let the simulation run in default values. 
+
 ![](img/b4.png)
 
 ## Extra Spice
 
-Interesting animated background with use of a few noise functions. 
+Interesting animated background with use of a few noise functions.
+
 ![](img/b3.png)
 
 ## Publishing Your Code
